@@ -1,4 +1,1 @@
-ableton-tutorial-hot-to-build-a-frequency-scanner
-=================================================
-
-Ableton Tutorial : How to Build a Frequency Scanner
+Supports Youtube tutorial http://youtu.be/YIaUpk8V6Z8
